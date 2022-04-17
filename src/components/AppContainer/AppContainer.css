@@ -1,0 +1,11 @@
+.app-container {
+  display: flex;
+  gap: 80px;
+}
+
+@media (max-width: 1440px) {
+  .app-container {
+    flex-direction: column;
+    gap: 90px;
+  }
+}
