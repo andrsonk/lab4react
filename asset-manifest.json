@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lab4react/static/css/main.6e356482.css",
+    "main.js": "/lab4react/static/js/main.1e56d469.js",
+    "static/media/nigga.png": "/lab4react/static/media/nigga.29b8d84ad7103129f389.png",
+    "static/media/femka.png": "/lab4react/static/media/femka.7107db6dbe981b9530b6.png",
+    "static/media/dishwasher.png": "/lab4react/static/media/dishwasher.bde8ada3697c9e7c2ad8.png",
+    "index.html": "/lab4react/index.html",
+    "static/media/grow.svg": "/lab4react/static/media/grow.ba2d85b425926f37a4cb22418d287654.svg",
+    "static/media/clock.svg": "/lab4react/static/media/clock.4d585a906a79755ab8bcb295571b228f.svg",
+    "static/media/arrow-bottom.svg": "/lab4react/static/media/arrow-bottom.4fed835f75cceb8d303edaefa928b6ed.svg",
+    "static/media/antistonks.svg": "/lab4react/static/media/antistonks.6d04610d11caba1595cd104b819fc4a6.svg",
+    "static/media/stonks.svg": "/lab4react/static/media/stonks.01d702e2cbbf8da491a0cf9c89450b07.svg",
+    "static/media/cardio.svg": "/lab4react/static/media/cardio.2b6db2e124e72252c581751ce45d5999.svg",
+    "main.6e356482.css.map": "/lab4react/static/css/main.6e356482.css.map",
+    "main.1e56d469.js.map": "/lab4react/static/js/main.1e56d469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e356482.css",
+    "static/js/main.1e56d469.js"
+  ]
+}
